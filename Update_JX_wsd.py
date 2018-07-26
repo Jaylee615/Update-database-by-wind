@@ -6,6 +6,7 @@ Created on 2018.07.02
 实时更新：每周交易日收盘后17点钟0分导入当天的数据
 需要设定的参数：起始数据下载时间、交易日收盘后数据下载时间
 """
+
 from GlobalObject_JX_wsd import *
 from WindPy import *
 import time
